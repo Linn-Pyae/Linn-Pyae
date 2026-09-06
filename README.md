@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/notcarrotforreal) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009049011350) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linn-pyae-825461387/)
+[![Discord](https://img.shields.io/badge/Discord-notcarrotforreal-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/697000709853413426) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009049011350) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linn-pyae-825461387/)
 
 ## 📌 Pinned Repos
 [![Repo Card](https://github-readme-stats.shion.dev/api/pin/?username=Linn-Pyae&repo=Takemura-Holographic-Project-2026&theme=dark&hide_border=false)](https://github.com/Linn-Pyae/Takemura-Holographic-Project-2026)
